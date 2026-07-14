@@ -1,8 +1,3 @@
-intern id: CITS2258
-
-full name: Heemani Shailesh Patil
-
-no.of week:2 week
 
 project name: PASSWORD STRENGTH CHECKER
 
